@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Implementation-Title: SIAMsanity
+Implementation-Version: 1.0-SNAPSHOT
+Archiver-Version: Plexus Archiver
+Built-By: vprime
+Specification-Title: SIAMsanity
+Implementation-Vendor-Id: com
+Spring-Boot-Version: 2.0.0.RELEASE
+Main-Class: org.springframework.boot.loader.JarLauncher
+Start-Class: com.Main
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_171
+Specification-Version: 1.0-SNAPSHOT
+
