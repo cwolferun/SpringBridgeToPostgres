@@ -18,20 +18,14 @@ public class StatusDao {
     @Autowired
     private JdbcTemplate jdbcTemplate;
 
-    private final String GET_DEVICES = "SELECT ipAddress, status FROM mytable";
+    private final String GET_DEVICES = "SELECT * FROM devices";
 
 
 
-    Map<String, String> getStatusFromDb() {
-        HashMap<String, String> deviceStatuses = new HashMap<>();
+    List<Device> getStatusFromDb() {
 
-        List<Device> devices = jdbcTemplate.query(GET_DEVICES,
+        return  jdbcTemplate.query(GET_DEVICES,
                 new BeanPropertyRowMapper<>(Device.class));
 
-        for (Device device : devices) {
-            deviceStatuses.put(device.getIpAddress(), device.getStatus());
         }
-
-        return deviceStatuses;
-    }
 }

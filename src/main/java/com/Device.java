@@ -4,13 +4,18 @@ import org.springframework.stereotype.Component;
 
 public class Device {
     private String ipAddress;
-    private String status;
+    private String speed;
+    private String devicename;
+    private String devicetype;
 
-    Device(){}
+    Device() {
+    }
 
-    public Device(String ipAddress, String status) {
+    public Device(String ipAddress, String speed, String devicename, String devicetype) {
         this.ipAddress = ipAddress;
-        this.status = status;
+        this.speed = speed;
+        this.devicename = devicename;
+        this.devicetype = devicetype;
     }
 
 
@@ -22,11 +27,28 @@ public class Device {
         this.ipAddress = ipAddress;
     }
 
-    public String getStatus() {
-        return status;
+
+    public String getSpeed() {
+        return speed;
     }
 
-    public void setStatus(String status) {
-        this.status = status;
+    public void setSpeed(String speed) {
+        this.speed = speed;
+    }
+
+    public String getDevicename() {
+        return devicename;
+    }
+
+    public void setDevicename(String devicename) {
+        this.devicename = devicename;
+    }
+
+    public String getDevicetype() {
+        return devicetype;
+    }
+
+    public void setDevicetype(String devicetype) {
+        this.devicetype = devicetype;
     }
 }

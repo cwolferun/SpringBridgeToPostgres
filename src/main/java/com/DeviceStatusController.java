@@ -5,6 +5,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 
+import java.util.List;
 import java.util.Map;
 
 @RestController
@@ -15,8 +16,8 @@ public class DeviceStatusController {
     DeviceStatusController(){}
 
 
-    @GetMapping("/getstatus")
-    Map<String, String> getStatus(){
+    @GetMapping("/getall")
+    List<Device> getAll(){
         return  statusDao.getStatusFromDb();
     }
 
