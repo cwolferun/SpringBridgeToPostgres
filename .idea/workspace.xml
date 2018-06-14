@@ -2,36 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4db1cb1-f48a-4f39-8c76-f44b5db26831" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/DeviceHistory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Config.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Device.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Device.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/DeviceStatusController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DeviceStatusController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/StatusDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/StatusDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SIAMsanity-1.0-SNAPSHOT-docker-info.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/SIAMsanity-1.0-SNAPSHOT-docker-info.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SIAMsanity-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/SIAMsanity-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SIAMsanity-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/SIAMsanity-1.0-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/Config.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/Config.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/Device.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/Device.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/StatusDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/StatusDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency/BOOT-INF/classes/com/Config.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/dependency/BOOT-INF/classes/com/Config.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency/BOOT-INF/classes/com/Device.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/dependency/BOOT-INF/classes/com/Device.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency/BOOT-INF/classes/com/DeviceStatusController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/dependency/BOOT-INF/classes/com/DeviceStatusController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency/BOOT-INF/classes/com/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/dependency/BOOT-INF/classes/com/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency/BOOT-INF/classes/com/StatusDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/dependency/BOOT-INF/classes/com/StatusDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/dependency/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency/META-INF/maven/com/SIAMsanity/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/dependency/META-INF/maven/com/SIAMsanity/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency/META-INF/maven/com/SIAMsanity/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/dependency/META-INF/maven/com/SIAMsanity/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/docker/image-id" beforeDir="false" afterPath="$PROJECT_DIR$/target/docker/image-id" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/docker/image-name" beforeDir="false" afterPath="$PROJECT_DIR$/target/docker/image-name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/docker/repository" beforeDir="false" afterPath="$PROJECT_DIR$/target/docker/repository" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -44,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DeviceStatusController.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DeviceStatusController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/DeviceStatusController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="150">
+              <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -83,10 +54,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StatusDao.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StatusDao.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/StatusDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
+            <state relative-caret-position="450">
               <caret line="39" selection-start-line="39" selection-end-line="39" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -98,18 +69,10 @@
       <file leaf-file-name="DeviceHistory.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/DeviceHistory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="165">
               <caret line="12" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#148#149#0" expanded="true" />
-                <element signature="e#175#176#0" expanded="true" />
-                <element signature="e#215#216#0" expanded="true" />
-                <element signature="e#247#248#0" expanded="true" />
-                <element signature="e#279#280#0" expanded="true" />
-                <element signature="e#307#308#0" expanded="true" />
-                <element signature="e#349#350#0" expanded="true" />
-                <element signature="e#383#384#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -199,7 +162,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="348" />
     <option name="y" value="51" />
     <option name="width" value="1494" />
@@ -212,6 +175,7 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -257,7 +221,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -267,7 +230,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mypinglife" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -420,16 +383,16 @@
       <workItem from="1528665111353" duration="6742000" />
       <workItem from="1528729102698" duration="3815000" />
       <workItem from="1528824987569" duration="8206000" />
-      <workItem from="1528896082084" duration="5848000" />
+      <workItem from="1528896082084" duration="6321000" />
+      <workItem from="1528983043704" duration="2824000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42432000" />
+    <option name="totallyTimeSpent" value="45729000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="348" y="51" width="1494" height="1015" extended-state="0" />
-    <editor active="true" />
+    <frame x="348" y="51" width="1494" height="1015" extended-state="1" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -451,7 +414,7 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.6758621" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32413793" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32528734" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4993598" visible="true" weight="0.19502075" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" sideWeight="0.5006402" side_tool="true" weight="0.18948825" />
@@ -781,13 +744,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
@@ -809,35 +765,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/SpeedsBody.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/SpeedsBody.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/DeviceHistory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="165">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#148#149#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/DeviceStatusController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -846,8 +778,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/StatusDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
+        <state relative-caret-position="450">
           <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/DeviceStatusController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
