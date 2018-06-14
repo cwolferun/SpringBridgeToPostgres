@@ -11,7 +11,9 @@ import javax.sql.DataSource;
 
 @Configuration
 public class Config {
-
+    @Qualifier("dataSource")
+    @Autowired
+    DataSource dataSource;
     @Bean
     public RestTemplate getRestTemplate() {
         return new RestTemplate();
@@ -21,7 +23,6 @@ public class Config {
     public JdbcTemplate getJdbcTemplate() {
         return new JdbcTemplate(dataSource);
     }
-    @Qualifier("dataSource")
-    @Autowired
-    DataSource dataSource;
+
+
 }

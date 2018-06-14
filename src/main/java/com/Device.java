@@ -1,23 +1,32 @@
 package com;
 
-import org.springframework.stereotype.Component;
-
 public class Device {
     private String ipAddress;
     private String speed;
     private String devicename;
-    private String devicetype;
 
-    Device() {
-    }
-
-    public Device(String ipAddress, String speed, String devicename, String devicetype) {
+    public Device(String ipAddress, String speed, String devicename, String devicetype, String firstScanned) {
         this.ipAddress = ipAddress;
         this.speed = speed;
         this.devicename = devicename;
         this.devicetype = devicetype;
+        this.firstscanned = firstScanned;
     }
 
+    private String devicetype;
+
+    public String getFirstscanned() {
+        return firstscanned;
+    }
+
+    public void setFirstscanned(String firstscanned) {
+        this.firstscanned = firstscanned;
+    }
+
+    private String firstscanned;
+
+    Device() {
+    }
 
     public String getIpAddress() {
         return ipAddress;
