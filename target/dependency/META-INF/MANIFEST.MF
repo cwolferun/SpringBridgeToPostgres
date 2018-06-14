@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Implementation-Title: SIAMsanity
 Implementation-Version: 1.0-SNAPSHOT
 Archiver-Version: Plexus Archiver
-Built-By: vBeta
+Built-By: vprime
 Specification-Title: SIAMsanity
 Implementation-Vendor-Id: com
 Spring-Boot-Version: 2.0.0.RELEASE
