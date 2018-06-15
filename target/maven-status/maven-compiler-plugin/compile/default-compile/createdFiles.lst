@@ -1,5 +1,7 @@
 com/Device.class
+com/DeviceHistory.class
 com/Main.class
 com/DeviceStatusController.class
+com/Config$1.class
 com/StatusDao.class
 com/Config.class
