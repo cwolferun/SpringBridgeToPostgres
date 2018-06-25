@@ -3,25 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d4db1cb1-f48a-4f39-8c76-f44b5db26831" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-<<<<<<< HEAD
-=======
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/DeviceStatusController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DeviceStatusController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/StatusDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/StatusDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SIAMsanity-1.0-SNAPSHOT-docker-info.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/SIAMsanity-1.0-SNAPSHOT-docker-info.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SIAMsanity-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/SIAMsanity-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SIAMsanity-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/SIAMsanity-1.0-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/DeviceStatusController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/DeviceStatusController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/StatusDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/StatusDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency/BOOT-INF/classes/com/DeviceStatusController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/dependency/BOOT-INF/classes/com/DeviceStatusController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency/BOOT-INF/classes/com/StatusDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/dependency/BOOT-INF/classes/com/StatusDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/dependency/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency/META-INF/maven/com/SIAMsanity/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/dependency/META-INF/maven/com/SIAMsanity/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/docker/image-id" beforeDir="false" afterPath="$PROJECT_DIR$/target/docker/image-id" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/docker/com/SIAMsanity/image-id" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/META-INF/docker/com/SIAMsanity/image-id" afterDir="false" />
->>>>>>> 2f5a78734d7a0b142d9fbfb58ccfa3540ce3cc08
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -37,17 +18,10 @@
       <file leaf-file-name="DeviceStatusController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/DeviceStatusController.java">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
             <state relative-caret-position="150">
               <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-=======
-            <state relative-caret-position="221">
-              <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
->>>>>>> 2f5a78734d7a0b142d9fbfb58ccfa3540ce3cc08
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#482#483#0" expanded="true" />
-                <element signature="e#532#533#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -56,7 +30,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
+            <state relative-caret-position="45">
               <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
             </state>
           </provider>
@@ -65,7 +39,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
+            <state relative-caret-position="630">
               <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
             </state>
           </provider>
@@ -74,7 +48,7 @@
       <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
+            <state relative-caret-position="60">
               <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
             </state>
           </provider>
@@ -83,13 +57,8 @@
       <file leaf-file-name="StatusDao.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/StatusDao.java">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
             <state relative-caret-position="450">
               <caret line="39" selection-start-line="39" selection-end-line="39" />
-=======
-            <state relative-caret-position="23">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
->>>>>>> 2f5a78734d7a0b142d9fbfb58ccfa3540ce3cc08
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -97,23 +66,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="DeviceHistory.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/DeviceHistory.java">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
             <state relative-caret-position="165">
-=======
-            <state relative-caret-position="216">
->>>>>>> 2f5a78734d7a0b142d9fbfb58ccfa3540ce3cc08
               <caret line="12" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -125,8 +81,8 @@
       <file leaf-file-name="Config.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/Config.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="75">
+              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -134,10 +90,19 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Device.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/Device.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state relative-caret-position="225">
               <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
             </state>
           </provider>
@@ -146,7 +111,7 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
+            <state relative-caret-position="75">
               <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
             </state>
           </provider>
@@ -164,9 +129,6 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>inputMockData</find>
-      <find>198</find>
-      <find>192</find>
-      <find>gett</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -181,13 +143,13 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/Device.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Config.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/SpeedsBody.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/DeviceHistory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Config.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/StatusDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/DeviceStatusController.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/DeviceHistory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/StatusDao.java" />
       </list>
     </option>
   </component>
@@ -200,15 +162,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="348" />
     <option name="y" value="51" />
-=======
-  <component name="ProjectFrameBounds">
-    <option name="x" value="312" />
-    <option name="y" value="49" />
->>>>>>> 2f5a78734d7a0b142d9fbfb58ccfa3540ce3cc08
     <option name="width" value="1494" />
     <option name="height" value="1015" />
   </component>
@@ -218,14 +174,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-<<<<<<< HEAD
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
-=======
->>>>>>> 2f5a78734d7a0b142d9fbfb58ccfa3540ce3cc08
       <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -279,11 +230,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../mypinglife" />
-=======
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SIAM_PingLife" />
->>>>>>> 2f5a78734d7a0b142d9fbfb58ccfa3540ce3cc08
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -436,30 +383,16 @@
       <workItem from="1528665111353" duration="6742000" />
       <workItem from="1528729102698" duration="3815000" />
       <workItem from="1528824987569" duration="8206000" />
-<<<<<<< HEAD
       <workItem from="1528896082084" duration="6321000" />
       <workItem from="1528983043704" duration="2824000" />
-=======
-      <workItem from="1528896082084" duration="5848000" />
-      <workItem from="1528943812770" duration="3150000" />
-      <workItem from="1528947950738" duration="4518000" />
->>>>>>> 2f5a78734d7a0b142d9fbfb58ccfa3540ce3cc08
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
     <option name="totallyTimeSpent" value="45729000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="348" y="51" width="1494" height="1015" extended-state="1" />
-=======
-    <option name="totallyTimeSpent" value="50100000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="312" y="49" width="1494" height="1015" extended-state="0" />
-    <editor active="true" />
->>>>>>> 2f5a78734d7a0b142d9fbfb58ccfa3540ce3cc08
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -467,37 +400,32 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6758621" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.43333334" />
       <window_info anchor="bottom" id="Spring" order="7" />
-<<<<<<< HEAD
       <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32528734" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4993598" visible="true" weight="0.19502075" />
-=======
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3264368" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4993598" visible="true" weight="0.20055325" />
->>>>>>> 2f5a78734d7a0b142d9fbfb58ccfa3540ce3cc08
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" sideWeight="0.5006402" side_tool="true" weight="0.18948825" />
+      <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
@@ -523,15 +451,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/DeviceStatusController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#482#483#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -573,8 +505,6 @@
           <caret line="2" column="62" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#482#483#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -792,19 +722,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
+        <state relative-caret-position="45">
           <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
+        <state relative-caret-position="75">
           <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/Config.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -815,39 +744,31 @@
         </state>
       </provider>
     </entry>
-=======
->>>>>>> 2f5a78734d7a0b142d9fbfb58ccfa3540ce3cc08
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
+        <state relative-caret-position="630">
           <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/Device.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
+        <state relative-caret-position="225">
           <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/SpeedsBody.java" />
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/DeviceHistory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-=======
-    <entry file="file://$PROJECT_DIR$/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/DeviceHistory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
->>>>>>> 2f5a78734d7a0b142d9fbfb58ccfa3540ce3cc08
           <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -855,17 +776,10 @@
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/StatusDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="39" selection-start-line="39" selection-end-line="39" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Config.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
->>>>>>> 2f5a78734d7a0b142d9fbfb58ccfa3540ce3cc08
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -874,39 +788,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
         <state relative-caret-position="120">
           <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
-=======
-        <state relative-caret-position="23">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
->>>>>>> 2f5a78734d7a0b142d9fbfb58ccfa3540ce3cc08
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/DeviceStatusController.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
         <state relative-caret-position="150">
           <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-=======
-        <state relative-caret-position="221">
-          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
->>>>>>> 2f5a78734d7a0b142d9fbfb58ccfa3540ce3cc08
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#482#483#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
           </folding>
         </state>
       </provider>
